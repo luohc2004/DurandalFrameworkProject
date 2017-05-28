@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"todo",
+				"todoItem"
+			],
+			[
+				"js",
+				"json"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/viewmodels/course.js",
+			"settings":
+			{
+				"buffer_size": 1628,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "side",
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsy javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas\t",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"htm\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"key bing",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"new\t",
+				"Convert Case: Swap Case"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/TDDownload/HTML StarterKit",
+		"/D/TDDownload/HTML StarterKit/app",
+		"/D/TDDownload/HTML StarterKit/app/viewmodels",
+		"/D/TDDownload/HTML StarterKit/app/views",
+		"/D/TDDownload/HTML StarterKit/lib",
+		"/D/TDDownload/HTML StarterKit/lib/durandal",
+		"/D/TDDownload/HTML StarterKit/lib/durandal/js",
+		"/D/TDDownload/HTML StarterKit/lib/durandal/js/plugins",
+		"/D/TDDownload/HTML StarterKit/lib/durandal/js/transitions"
+	],
+	"file_history":
+	[
+		"/D/TDDownload/HTML StarterKit/lib/durandal/js/plugins/http.js",
+		"/D/TDDownload/HTML StarterKit/app/viewmodels/course.js",
+		"/D/TDDownload/HTML StarterKit/app/views/course.html",
+		"/D/TDDownload/HTML StarterKit/app/viewmodels/shell.js",
+		"/D/TDDownload/HTML StarterKit/app/viewmodels/flickr.js",
+		"/D/TDDownload/HTML StarterKit/app/views/flickr.html",
+		"/D/TDDownload/HTML StarterKit/index.html",
+		"/D/TDDownload/HTML StarterKit/app/main.js",
+		"/D/TDDownload/HTML StarterKit/app/views/shell.html",
+		"/D/TDDownload/HTML StarterKit/app/views/welcome.html",
+		"/D/TDDownload/HTML StarterKit/app/views/detail.html",
+		"/D/TDDownload/HTML StarterKit/lib/durandal/js/app.js",
+		"/D/TDDownload/HTML StarterKit/lib/jquery/jquery-1.9.1.intellisense.js",
+		"/D/TDDownload/spa-example-master/app/server/router/api.js",
+		"/D/TDDownload/spa-example-master/webpack.config.js",
+		"/D/TDDownload/spa-example-master/sap-example.sublime-project",
+		"/D/TDDownload/spa-example-master/app/client/index.js",
+		"/D/TDDownload/spa-example-master/app/shared/extension.js",
+		"/D/TDDownload/spa-example-master/scripts/pm2.js",
+		"/D/TDDownload/spa-example-master/app/client/router.js",
+		"/D/TDDownload/spa-example-master/README.md",
+		"/D/TDDownload/spa-example-master/app/client/service/index.js",
+		"/D/TDDownload/spa-example-master/app/shared/providerFactory.js",
+		"/D/TDDownload/spa-example-master/.gitignore",
+		"/D/TDDownload/spa-example-master/app/client/module/app.js",
+		"/D/TDDownload/spa-example-master/app/client/module/index.js",
+		"/D/MyDocuments/Visual Studio 2015/Projects/RegularSPA/RegularSPA/index.html",
+		"/D/MyDocuments/Visual Studio 2015/Projects/RegularSPA/RegularSPA/index.js",
+		"/C/Users/LuoHongchuan/Source/Repos/LXUI-layout/PureFrontEnd/DurandalApp/App/shell.html",
+		"/C/Users/LuoHongchuan/Source/Repos/LXUI-layout/PureFrontEnd/DurandalApp/App/todo.html",
+		"/C/Users/LuoHongchuan/Source/Repos/LXUI-layout/PureFrontEnd/DurandalApp/App/todo.js",
+		"/C/Users/LuoHongchuan/Source/Repos/LXUI-layout/PureFrontEnd/DurandalApp/App/shell.js",
+		"/C/Users/LuoHongchuan/Source/Repos/LXUI-layout/PureFrontEnd/DurandalApp/App/rainier.js",
+		"/C/Users/LuoHongchuan/Source/Repos/LXUI-layout/PureFrontEnd/DurandalApp/App/main.js",
+		"/C/Users/LuoHongchuan/Source/Repos/LXUI-layout/PureFrontEnd/DurandalApp/Index.html",
+		"/C/Users/LuoHongchuan/Source/Repos/LXUI-layout/PureFrontEnd/DurandalApp/App/rainier.html",
+		"/D/Sublime Text Build 3114 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/LuoHongchuan/Source/Repos/LXUI-layout/PureFrontEnd/DurandalApp/DurandalApp.sublime-project",
+		"/D/MyDocuments/RegularUIApp/Index.html",
+		"/D/TDDownload/Sublime Text Build 3114 x64/Data/Packages/User/HTML.sublime-settings",
+		"/D/TDDownload/Sublime Text Build 3114 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/TDDownload/Sublime Text Build 3114 x64/Data/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"D:\\TDDownload\\spa-example-master"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function activate",
+			"es6-promise",
+			"rein"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/viewmodels/course.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								739,
+								834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 621.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "durandal.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
