@@ -1,0 +1,9 @@
+﻿<section>
+    <h1 data-bind="text: displayName"></h1>
+    <ul data-bind="foreach:todos">
+        <li>
+            <span data-bind="text:taskName"></span><span data-bind="text:deadLine"></span> <a href="#" class="btn btn-default" data-bind="click:$parent.select"><span class="glyphicon glyphicon-edit"> </span></a>
+        </li>
+        <li><a href="#" class="btn btn-default" data-bind="click:$parent.add">新增任务</a></li>
+    </ul>
+</section>
